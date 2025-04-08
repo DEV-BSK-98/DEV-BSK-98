@@ -1,81 +1,101 @@
 # **☺️ Bright BSK Mulomba**
 ## **🎯 Self-Taught Software Developer & AI Enthusiast**  
 
-🌟 **Passionate About Innovation | AI & Machine Learning | Creative Problem Solver**
+🌟 **Passionate Innovator | AI & Machine Learning Expert | Creative Problem Solver**
 
 ---
 
-A **goal-oriented Software Developer** with over **5+ years** of hands-on experience and **4+ years** of professional software development. I specialize in building **AI-driven solutions**, utilizing cutting-edge technologies to solve complex real-world challenges.
+A **self-taught Software Developer** with **5+ years of experience** in software development, specializing in **AI-driven solutions**. With a strong focus on **Machine Learning (ML)** and **Artificial Intelligence (AI)**, I’m committed to building **scalable**, **efficient**, and **intuitive systems** that solve complex real-world problems.
 
 ---
 
-## **🌐 Key Highlights:**
-- **💡 Expert in Machine Learning & AI**  
-  Specialized in creating intelligent systems with **ML algorithms** and **AI-driven solutions**.
+## **🌐 Key Highlights**
+- **💡 AI & Machine Learning Expert**  
+  Proficient in designing **intelligent systems** with **cutting-edge ML algorithms** to create **AI solutions** for diverse applications.
   
-- **🚀 Tech Enthusiast & Problem Solver**  
-  Continuously evolving with the latest frameworks and tools to build robust software applications.
-  
-- **🎨 Creative Developer**  
-  Combining **technical skills** with **artistic problem-solving** to design user-friendly, scalable software.
+- **🚀 Tech Enthusiast & Developer**  
+  Passionate about **technology** and **continuous learning**, always exploring new frameworks, libraries, and tools to improve development workflows.
+
+- **🎨 Creative Problem Solver**  
+  A blend of **technical expertise** and **artistic problem-solving**, focusing on delivering **high-quality, user-centric applications**.
+
+- **🏆 Results-Driven**  
+  Strong focus on **delivering scalable solutions** through **Agile practices** and **collaboration** to meet both short-term milestones and long-term goals.
 
 ---
 
-## **🔧 Core Competencies:**
-- **🖥️ Programming Languages**: **Python**, **JavaScript**, **Java**, **PHP**, **SQL**, **Dart**, **Golang**
-- **🤖 AI & Machine Learning**: **TensorFlow**, **PyTorch**, **Scikit-Learn**, **NLP**, **Deep Learning**
-- **🌍 Web Development**: **React**, **Node.js**, **Flutter**, **Django**, **Next.js**, **REST APIs**
-- **💻 Software Engineering**: **Agile**, **Test-Driven Development (TDD)**, **CI/CD**
-- **🔍 Problem Solving**: Optimizing **performance**, **scalability**, and **user experience**.
+## **🔧 Core Skills**
+- **🖥️ Languages**: Python, JavaScript, Java, PHP, SQL, Dart, Golang, Rust
+- **🤖 AI/ML**: TensorFlow, PyTorch, Scikit-Learn, Deep Learning, NLP
+- **🌍 Web Development**: React, Node.js, Django, Flutter, Next.js, REST APIs, GraphQL
+- **💻 Software Engineering**: Agile, CI/CD, TDD (Test-Driven Development)
+- **🔍 Problem Solving**: Performance optimization, scalability, and UX design.
 
 ---
 
-## **🔧 Technologies & Tools:**
+## **🛠️ Tools & Technologies**
 
-### **Programming Languages:**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+### **Languages**
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Dart-00B4A2?style=flat&logo=dart&logoColor=white" alt="Dart" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="GoLang" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" style="margin-right: 10px;">
+</div>
 
-### **Development Tools & Frameworks:**
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+### **Frameworks & Tools**
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/SolidJS-FF3E00?style=flat&logo=solidjs&logoColor=white" alt="SolidJS" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Strapi-2E7FF7?style=flat&logo=strapi&logoColor=white" alt="Strapi" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Frappe-42B7B7?style=flat&logo=frappe&logoColor=white" alt="Frappe" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Slim%20PHP-FF0000?style=flat&logo=slim&logoColor=white" alt="SlimPHP" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Appwrite-000000?style=flat&logo=appwrite&logoColor=white" alt="Appwrite" style="margin-right: 10px;">
+</div>
 
-### **Cloud & DevOps:**
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-
-### **Version Control:**
-- ![Git](https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+### **Cloud & DevOps**
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku" style="margin-right: 10px;">
+</div>
 
 ---
 
 ## **📊 GitHub Stats**
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEV-BSK-98&show_icons=true&theme=radical)
 
 ---
 
 ## **🏆 GitHub Trophies**
+
 ![Trophy](https://github-profile-trophy.vercel.app/?username=DEV-BSK-98)
 
 ---
 
 ## **📬 Contact Me**
-- [LinkedIn](https://www.linkedin.com/in/DEV-BSK-98/)
-- [Twitter](https://twitter.com/DEV-BSK-98)
+- [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME/)
+- [Twitter](https://twitter.com/YOUR_USERNAME)
 - 📩 **Email**: bskdev98@gmail.com
 
 ---
 
 ## **⚡ Passion & Drive**  
-I believe in the power of **continuous learning** and am deeply passionate about **AI**. I'm eager to create solutions that make a lasting impact. Let’s collaborate and innovate together! 💡🚀
+As a **self-taught developer**, I believe in **continuous learning** and growth. My passion for **AI** drives me to build innovative solutions that make a meaningful impact. Let’s collaborate and create the next generation of technology! 💡🚀
 
 ---
 
