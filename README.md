@@ -1,3 +1,4 @@
+# **☺️ Bright BSK Mulomba**
 # **🎯 Self-Taught Software Developer & AI Enthusiast**  
 
 🌟 **Passionate About Innovation | AI & Machine Learning Expert | Creative Problem Solver**
