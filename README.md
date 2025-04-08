@@ -39,6 +39,6 @@ Let's collaborate and create the next generation of innovative solutions! ðŸ’¡ðŸ
 
 ---
 
-![Bright's GitHub stats](https://github-readme-stats.vercel.app/api?username=BSK-98&show_icons=true&theme=radical)
+![Bright's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-BSK-98&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BSK-98&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-BSK-98&layout=compact&theme=radical)
