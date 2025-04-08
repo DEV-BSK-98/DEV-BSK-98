@@ -1,9 +1,9 @@
 # **☺️ Bright BSK Mulomba**
 # **🎯 Self-Taught Software Developer & AI Enthusiast**  
 
-🌟 **Passionate About Innovation | AI & Machine Learning Expert | Creative Problem Solver**
+🌟 **Passionate About Innovation | AI & Machine Learning | Creative Problem Solver**
 
-A highly motivated and **goal-oriented Software Developer** with a strong passion for technology and a keen eye for creativity. With over **5+ years** of hands-on experience in **software development** and **4+ years** of professional software engineering, I specialize in building innovative, efficient, and AI-driven software solutions. 
+A highly motivated and **goal-oriented Software Developer** with a strong passion for technology and a keen eye for creativity. With over **5+ years** of hands-on experience in **software development** and **4+ years** of professional software development developing real world proven solutions, I specialize in building innovative, efficient, and AI-driven software solutions. 
 
 ## **🌐 Key Highlights:**
 - **💡 Expert in Machine Learning & AI**  
