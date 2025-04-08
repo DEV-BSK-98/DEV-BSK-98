@@ -20,7 +20,7 @@ A highly motivated and **goal-oriented Software Developer** with a strong passio
 - **🤖 AI & Machine Learning**:  
   - **TensorFlow**, **PyTorch**, **Scikit-Learn**, **Deep Learning (DL)**, **Machine Learning (ML)**, **Natural Language Processing (NLP)**
 - **🌍 Web Development**:  
-  - **React**, **Node.js**, **Django**, **FastApi**, **REST APIs**, **GraphQL**
+  - **React**, **Node.js**, **Flutter**, **Nextjs**, **SolidJS**, **Laravel**, **WordPress**, **Django**, **FastApi**, **REST APIs**, **GraphQL**
 - **💻 Software Engineering**:  
   - **Agile Methodologies**, **Test-Driven Development (TDD)**, **CI/CD pipelines**
 - **🔍 Problem Solving**:  
