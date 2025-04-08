@@ -10,7 +10,7 @@ A **self-taught Software Developer** with **5+ years of experience** in software
 ---
 
 ## **🌐 Key Highlights**
-- **💡 AI & Machine Learning Expert**  
+- **💡 AI & Machine Learning **  
   Proficient in designing **intelligent systems** with **cutting-edge ML algorithms** to create **AI solutions** for diverse applications.
   
 - **🚀 Tech Enthusiast & Developer**  
