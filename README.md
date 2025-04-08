@@ -36,3 +36,9 @@ Let's collaborate and create the next generation of innovative solutions! 💡�
 
 🔗 **Connect with me on LinkedIn**:   
 📩 **Email**: bskdev98@gmail.com
+
+---
+
+![Bright's GitHub stats](https://github-readme-stats.vercel.app/api?username=BSK-98&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BSK-98&layout=compact&theme=radical)
