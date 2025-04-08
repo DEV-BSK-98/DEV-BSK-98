@@ -39,14 +39,24 @@ Let's collaborate and create the next generation of innovative solutions! ðŸ’¡ðŸ
 
 ---
 
-![Bright's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-BSK-98&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-BSK-98&layout=compact&theme=radical)
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEV-BSK-98&show_icons=true&theme=radical)
 
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-BSK-98&layout=compact&theme=radical)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=DEV-BSK-98)
 
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=DEV-BSK-98)
 
+![WakaTime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)
+
+![Metrics](https://raw.githubusercontent.com/DEV-BSK-98/YOUR_USERNAME/main/github-metrics.svg)
+
+![Build Status](https://img.shields.io/github/workflow/status/DEV-BSK-98/REPO/CI)
+
+![GitHub Stars](https://img.shields.io/github/stars/DEV-BSK-98/REPO?style=social)
+
+![License](https://img.shields.io/github/license/DEV-BSK-98/REPO)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME/)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
