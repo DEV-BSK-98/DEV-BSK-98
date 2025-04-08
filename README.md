@@ -67,6 +67,19 @@ A **self-taught Software Developer** with **5+ years of experience** in software
   <img src="https://img.shields.io/badge/Appwrite-000000?style=flat&logo=appwrite&logoColor=white" alt="Appwrite" style="margin-right: 10px;">
 </div>
 
+#### **Version Control**
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white" alt="GitLab" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="margin-right: 10px;">
+</div>
+
+#### **CI/CD**
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/GitLab%20CI/CD-FCA121?style=flat&logo=gitlab&logoColor=white" alt="GitLab CI/CD" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-181717?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions" style="margin-right: 10px;">
+</div>
+
 ### **Cloud & DevOps**
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" style="margin-right: 10px;">
